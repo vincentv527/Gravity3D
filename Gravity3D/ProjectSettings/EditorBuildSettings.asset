@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameDemoScenes/MainMenu.unity
+    guid: 1dee5f6b04fc29445bb45acb7f743c7c
+  - enabled: 1
+    path: Assets/Scenes/GameDemoScenes/PickGame.unity
+    guid: b8922449ea1c3f54ab5494a821d61fae
+  - enabled: 1
+    path: Assets/Scenes/GameDemoScenes/Credits.unity
+    guid: fb01edb61b9ade946a037cd6a0d3f453
+  - enabled: 1
+    path: Assets/Scenes/GameDemoScenes/FreeFallInstuctions.unity
+    guid: 706b04c551bb9ad46b28f1bc87adcd31
+  - enabled: 1
+    path: Assets/Scenes/GameDemoScenes/FreeFall.unity
+    guid: 52de732d004a78c4982a3368acbe731a
+  - enabled: 1
+    path: Assets/Scenes/GameDemoScenes/FreeFallQuestions.unity
+    guid: ce144e6fc01f0d3408157db7fdf27609
+  - enabled: 1
+    path: Assets/Scenes/GameDemoScenes/FrictionInstuctions.unity
+    guid: 569f3805ab23012439cf92b09cd93bb2
+  - enabled: 1
+    path: Assets/Scenes/GameDemoScenes/Friction.unity
+    guid: bc7724e343bb9ee49b130969a82e89a5
+  - enabled: 1
+    path: Assets/Scenes/GameDemoScenes/FrictionQuestions.unity
+    guid: 3454ff2a28ee7bf4db88d3f361876d0f
+  - enabled: 1
+    path: Assets/Scenes/GameDemoScenes/PlanetGravity.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
